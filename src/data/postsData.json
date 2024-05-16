@@ -1,0 +1,32 @@
+[
+    {
+        "image": "https://images.pexels.com/photos/6685428/pexels-photo-6685428.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "title": "Were to travel this winter?",
+        "description": "Based on multiple agencies the following top of place were compiled...",
+        "timestamp": "1 hour ago"
+    },
+    {
+        "image": "https://images.pexels.com/photos/6758029/pexels-photo-6758029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "title": "Get pretty FAST!",
+        "description": "Find the best practices on how to get the best out of your natural beauty...",
+        "timestamp": "20 hours ago"
+    },
+    {
+        "image": "https://images.pexels.com/photos/6711867/pexels-photo-6711867.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "title": "Take care about your friends",
+        "description": "Learn about watering secrets (avoid overwatering!), finding the perfect light spot, and how to give your plants the nutrients they need to flourish...",
+        "timestamp": "2 days ago"
+    },
+    {
+        "image": "https://images.pexels.com/photos/5490778/pexels-photo-5490778.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "title": "Keep your kitchen clean", 
+        "description=": "Taming the kitchen mess can be tackled in a flash! This quick guide will have you clearing counters, wiping down surfaces, and leaving your kitchen sparkling in no time...",
+        "timestamp": "1 week ago"
+    },
+    {
+        "image": "https://images.pexels.com/photos/4916559/pexels-photo-4916559.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "title": "Admire nature",
+        "description": "The word conjures up images of majestic mountains, sprawling beaches, and lush forests teeming with life. But nature is so much more than that...",
+        "timestamp": "2 week ago"
+    }
+]
