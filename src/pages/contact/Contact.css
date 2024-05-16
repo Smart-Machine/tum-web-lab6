@@ -1,0 +1,10 @@
+.contact {
+    padding: 8%;
+    font-size: 1.7em;
+    font-family: "Josefin Sans", Arial, Helvetica, sans-serif;
+}
+
+.contact a {
+    text-decoration: underline;
+    color: black;
+}
