@@ -1,0 +1,39 @@
+.settings {
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.settings h2 {
+    margin-bottom: 2%;
+}
+
+.settings ul {
+    list-style-type: none;
+}
+
+.settings li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.settings h3 {
+    margin-right: 2%;
+}
+
+.settings button {
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2em;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    font-family: 'Varela Round', sans-serif;
+}
